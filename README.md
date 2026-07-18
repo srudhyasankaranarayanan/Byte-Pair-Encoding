@@ -33,3 +33,11 @@ The main objectives of this project are:
 - Strengthen programming skills in Python and NumPy by implementing language model components from first principles.
 
 - Create a simple, modular, and easy-to-understand implementation that can serve as a foundation for building more advanced NLP and transformer models.
+
+# Project Structure
+bpe-autoregressive-language-model/
+│
+├── corpus.txt
+├── Byte pair Encoding .ipynb
+├── Autoregressive_Language_Model.ipynb
+├── README.md
