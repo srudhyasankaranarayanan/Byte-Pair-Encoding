@@ -59,7 +59,6 @@ The BPE notebook performs the following tasks:
 The language model notebook demonstrates the complete preprocessing pipeline used before training an autoregressive language model.
 
 # Workflow
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7ac90df6-ac10-431c-9d24-30de3a4818ca" />
 
 # 🛠 Technologies Used
 
@@ -72,5 +71,5 @@ The language model notebook demonstrates the complete preprocessing pipeline use
 # ▶️ How to Run
 
 1. Clone the repository.
-git clone 
+git clone https://github.com/srudhyasankaranarayanan/BPE-Tokenizer-and-Autoregressive-Causal-Language-Model.git
 2. 
