@@ -42,17 +42,17 @@ The BPE notebook performs the following tasks:
 
 - Creates an initial character-level vocabulary
 
--Calculates pair frequencies
+- Calculates pair frequencies
 
--Identifies the most frequent character pairs
+- Identifies the most frequent character pairs
 
--Merges frequent pairs iteratively
+- Merges frequent pairs iteratively
 
--Builds a subword vocabulary
+- Builds a subword vocabulary
 
--Encodes new words into subword tokens
+- Encodes new words into subword tokens
 
--Decodes tokens back into text
+- Decodes tokens back into text
 
 # 🤖 Autoregressive Causal Language Model
 
