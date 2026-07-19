@@ -71,5 +71,5 @@ The language model notebook demonstrates the complete preprocessing pipeline use
 # ▶️ How to Run
 
 1. Clone the repository.
-git clone https://github.com/srudhyasankaranarayanan/BPE-Tokenizer-and-Autoregressive-Causal-Language-Model.git
+git clone https://github.com/srudhyasankaranarayanan/BPE-Tokenizer-and-Autoregressive-Causal-Language-Model
 2. 
